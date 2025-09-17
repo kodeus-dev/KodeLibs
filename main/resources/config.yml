@@ -1,0 +1,27 @@
+messages:
+  kristallestirme_eklendi: "&aKristalleştirme özelliği eklendi!"
+  kristallestirme_aktif: "&aKristalleştirme yeteneği aktifleştirildi!"
+  kristallestirme_cooldown: "&cKristalleştirme için {seconds} saniye beklemelisin."
+  kristallestirme_dondu: "&bKristalleştirildin!"
+  kristallestirme_bitti: "&7Kristalleşme sona erdi."
+
+  nekromansi_eklendi: "&aNekromansi özelliği eklendi!"
+  nekromansi_aktif: "&aNekromansi aktif edildi!"
+  nekromansi_cooldown: "&cNekromansi için {seconds} saniye beklemelisin."
+
+  karanlik_yildiz_eklendi: "&aKaranlık Yıldız özelliği eklendi!"
+  karanlik_yildiz_cooldown: "&cKaranlık Yıldız için {seconds} saniye beklemelisin."
+  karanlik_yildiz_kullanildi: "&5Karanlık yıldız enerjisini saldın!"
+
+  hasar_azaltma_eklendi: "&aHasar azaltma özelliği %{value}% olarak eklendi!"
+
+  yeterli_esya: "&cElinde bir eşya tutmalısın!"
+  sadece_oyuncu: "&cSadece oyun içi oyuncular kullanabilir."
+
+cooldowns:
+  kristallestirme: 20
+  nekromansi: 120
+  karanlik_yildiz: 60
+
+effects:
+  slow_duration_seconds: 10

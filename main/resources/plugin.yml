@@ -1,0 +1,8 @@
+name: KodeLibs
+version: '1.0'
+main: com.ruzgar.kodeLibs.KodeLibs
+api-version: '1.19'
+commands:
+  redcore:
+    description: Iteme özellik ekler
+    usage: /redcore islev ekle kristallestirme
